@@ -1,0 +1,4 @@
+com\service\feign\api\IUserService.class
+com\service\ApiApplicatino.class
+model\User.class
+com\service\hystrix\UserHystrix.class
